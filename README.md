@@ -15,6 +15,3 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian.
 ## Cara Menjalankan
 1. Salin folder ke 'htdocs/'
 2. Jalankan XAMPP dan buka di 'http://localhost/todolist'
-
-## Kontributor
-- Juan Marten Daniel Lolowang (https://github.com/juanlolowang)
